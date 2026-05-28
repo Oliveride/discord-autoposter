@@ -12,7 +12,7 @@ A lightweight, automated Python script designed to regularly post advertising, a
 ## 🛠 Setup & Installation
 
 ### 1. Requirements
-Make sure you have Python 3.x installed along with the `requests` library[cite: 2]. If you don't have it, install it via your terminal:
+Make sure you have Python 3.x installed along with the `requests` library. If you don't have it, install it via your terminal:
 
 ```bash
 pip install requests
